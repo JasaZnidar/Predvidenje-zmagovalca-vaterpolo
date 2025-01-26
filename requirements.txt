@@ -98,7 +98,6 @@ fastjsonschema==2.20.0
 fastprogress==1.0.3
 fastrlock==0.8.2
 filelock==3.16.1
-firebase-admin==6.5.0
 Flask==2.2.5
 flatbuffers==24.3.25
 flax==0.8.5
