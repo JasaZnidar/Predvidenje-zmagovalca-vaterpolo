@@ -24,7 +24,7 @@ autograd==1.7.0
 babel==2.16.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
-bigframes==1.22.0
+bigframes==1.33.0
 bigquery-magics==0.4.0
 bleach==6.1.0
 blinker==1.4
