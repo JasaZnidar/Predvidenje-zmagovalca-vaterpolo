@@ -135,7 +135,6 @@ holoviews==1.19.1
 html5lib==1.1
 httpimport==1.4.0
 httplib2==0.22.0
-huggingface-hub==0.24.7
 humanize==4.10.0
 hyperopt==0.2.7
 ibis-framework==9.2.0
