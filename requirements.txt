@@ -145,7 +145,6 @@ imagesize==1.4.1
 imbalanced-learn==0.12.4
 imgaug==0.4.0
 immutabledict==4.2.0
-importlib_metadata==8.5.0
 importlib_resources==6.4.5
 imutils==0.5.4
 inflect==7.4.0
@@ -292,7 +291,6 @@ proglog==0.1.10
 progressbar2==4.5.0
 prometheus_client==0.21.0
 promise==2.3
-prompt_toolkit==3.0.48
 propcache==0.2.0
 prophet==1.1.6
 proto-plus==1.24.0
