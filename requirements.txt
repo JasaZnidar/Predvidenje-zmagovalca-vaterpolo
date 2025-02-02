@@ -437,7 +437,6 @@ torch-sparse @ https://github.com/JasaZnidar/Predvidenje-zmagovalca-vaterpolo/ra
 torch-spline-conv @ https://github.com/JasaZnidar/Predvidenje-zmagovalca-vaterpolo/raw/refs/heads/main/whls/torch_spline_conv-1.2.2+pt24cu121-cp311-cp311-linux_x86_64.whl
 torchsummary==1.5.1
 torchvision==0.19.1
-tornado==6.3.3
 tqdm==4.66.5
 traitlets==5.7.1
 traittypes==0.2.1
