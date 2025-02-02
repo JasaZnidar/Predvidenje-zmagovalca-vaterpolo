@@ -120,7 +120,6 @@ GitPython==3.1.43
 glob2==0.7
 graphviz==0.20.3
 greenlet==3.1.1
-grpcio==1.64.1
 grpcio-status==1.48.2
 gspread==6.0.2
 gspread-dataframe==3.3.1
@@ -181,7 +180,6 @@ jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.6.17
 kagglehub==0.3.3
-keras==3.4.1
 keyring==23.5.0
 langcodes==3.4.1
 language_data==1.2.0
@@ -403,7 +401,6 @@ tables==3.8.0
 tabulate==0.9.0
 tbb==2021.13.1
 tenacity==9.0.0
-tensorboard==2.17.0
 tensorboard-data-server==0.7.2
 tensorflow==2.17.0
 tensorflow-datasets==4.9.6
