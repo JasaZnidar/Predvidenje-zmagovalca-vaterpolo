@@ -87,7 +87,6 @@ jsonpickle==3.3.0
 kagglehub==0.3.3
 langcodes==3.4.1
 language_data==1.2.0
-libcudf-cu12 @ https://pypi.nvidia.com/libcudf-cu12/libcudf_cu12-24.10.1-py3-none-manylinux_2_28_x86_64.whl
 llvmlite==0.43.0
 lxml==4.9.4
 mistune==0.8.4
