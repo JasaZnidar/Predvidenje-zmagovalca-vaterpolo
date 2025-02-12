@@ -182,7 +182,6 @@ srsly==2.4.8
 StrEnum==0.4.15
 tables==3.8.0
 tbb==2021.13.1
-tensorflow==2.17.0
 tensorflow-datasets==4.9.6
 tensorflow-probability==0.24.0
 tensorstore==0.1.66
