@@ -218,4 +218,4 @@ xarray==2024.9.0
 xgboost==2.1.1
 xyzservices==2024.9.0
 yarl==1.16.0
-numpy=1.26.4
+numpy==1.26.4
