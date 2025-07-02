@@ -192,7 +192,7 @@ tomli==2.0.2
 torch==2.4.0
 torch-cluster @ https://github.com/JasaZnidar/Predvidenje-zmagovalca-vaterpolo/raw/refs/heads/main/whls/torch_cluster-1.6.3+pt24cu121-cp311-cp311-linux_x86_64.whl
 torch_geometric==2.4.0
-torchaudio==2.4.1
+torchaudio==2.4.0
 torcheval==0.0.7
 torch-scatter @ https://github.com/JasaZnidar/Predvidenje-zmagovalca-vaterpolo/raw/refs/heads/main/whls/torch_scatter-2.1.2+pt24cu121-cp311-cp311-linux_x86_64.whl
 torch-sparse @ https://github.com/JasaZnidar/Predvidenje-zmagovalca-vaterpolo/raw/refs/heads/main/whls/torch_sparse-0.6.18+pt24cu121-cp311-cp311-linux_x86_64.whl
