@@ -59,8 +59,6 @@ pip install -r requirements.txt
 # python train.py --model random_forest --exclude-draws
 ```
 
-<!-- TODO: describe repo layout (data prep scripts, per-model scripts/notebooks, where the JSON dataset goes) -->
-
 ## Future work
 
 - Larger, more diverse datasets for more robust evaluation
